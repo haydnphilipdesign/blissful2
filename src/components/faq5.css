@@ -1,0 +1,224 @@
+.faq5-faq13 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.faq5-max-width {
+  gap: var(--dl-space-space-threeunits);
+}
+.faq5-list-item1 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq5-list-item2 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq5-list-item3 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq5-list-item4 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq5-list-item5 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq5-list-item6 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq5-list-item7 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq5-list-item8 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq5-list-item9 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq5-content2 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+}
+.faq5-text04 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq5-text05 {
+  display: inline-block;
+}
+.faq5-text06 {
+  display: inline-block;
+  text-align: center;
+}
+.faq5-text09 {
+  display: inline-block;
+}
+.faq5-text10 {
+  display: inline-block;
+}
+.faq5-text11 {
+  display: inline-block;
+  align-self: center;
+  text-align: center;
+}
+.faq5-text12 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq5-text13 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq5-text14 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq5-text15 {
+  display: inline-block;
+}
+.faq5-text16 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq5-text17 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq5-text18 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq5-text19 {
+  display: inline-block;
+}
+.faq5-text20 {
+  display: inline-block;
+}
+.faq5-text21 {
+  display: inline-block;
+  text-align: center;
+}
+.faq5-text22 {
+  display: inline-block;
+}
+.faq5-text23 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq5-text24 {
+  display: inline-block;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.faq5-text25 {
+  display: inline-block;
+}
+.faq5-text26 {
+  display: inline-block;
+}
+.faq5-text27 {
+  display: inline-block;
+  align-self: center;
+  text-align: center;
+}
+.faq5-text30 {
+  display: inline-block;
+}
+@media(max-width: 991px) {
+  .faq5-text04 {
+    text-align: left;
+  }
+  .faq5-text12 {
+    text-align: left;
+  }
+  .faq5-text13 {
+    text-align: left;
+  }
+  .faq5-text14 {
+    text-align: left;
+  }
+  .faq5-text16 {
+    text-align: left;
+  }
+  .faq5-text17 {
+    text-align: left;
+  }
+  .faq5-text18 {
+    text-align: left;
+  }
+  .faq5-text23 {
+    text-align: left;
+  }
+  .faq5-text24 {
+    text-align: left;
+  }
+}
+@media(max-width: 767px) {
+  .faq5-content {
+    flex-direction: column;
+  }
+}
+@media(max-width: 479px) {
+  .faq5-max-width {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+}
